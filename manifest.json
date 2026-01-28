@@ -1,13 +1,15 @@
 {
-  "name": "Si-H2i Mobile",
+  "name": "Si-H2i Mobile - Sistem Informasi Sekolah",
   "short_name": "Si-H2i",
-  "description": "Sistem Informasi Sekolah Terintegrasi 2025",
+  "description": "Aplikasi PWA untuk Manajemen Sekolah - Absensi, Nilai, dan Laporan",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#ffffff",
   "theme_color": "#2563eb",
   "scope": "/",
+  "lang": "id",
+  "categories": ["education", "productivity", "business"],
   "icons": [
     {
       "src": "icon.svg",
