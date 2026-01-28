@@ -1,9 +1,9 @@
 const CACHE_NAME = 'sih2i-v1-cache-2025';
 const FILES_TO_CACHE = [
-  '/',
-  '/index.html',
-  '/manifest.json',
-  '/icon.svg',
+  '/pwa-of-app-rekap-nilai/',
+  '/pwa-of-app-rekap-nilai/index.html',
+  '/pwa-of-app-rekap-nilai/manifest.json',
+  '/pwa-of-app-rekap-nilai/icon.svg',
   'https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css',
   'https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css',
   'https://cdn.jsdelivr.net/npm/chart.js',
